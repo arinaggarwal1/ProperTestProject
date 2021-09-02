@@ -25,4 +25,6 @@ const styles = StyleSheet.create({
   textThingy: {
     marginHorizontal: 20
   }
+
+  
 });
